@@ -64,6 +64,6 @@ print(f"The average ticket price is: {average_ticket_price}")
 total_cost_per_ticket = total_cost / total_tickets_sold
 print(f"The total cost per ticket is: {total_cost_per_ticket}")
 
-# Profit per ticket calculation
+## Profit per ticket calculation
 profit_per_ticket = (total_revenue - total_cost) / total_tickets_sold
 print(f"The profit per ticket is: {profit_per_ticket}")
